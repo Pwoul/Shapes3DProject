@@ -1,0 +1,14 @@
+/Users/parwoul/Desktop/Shapes3DProject/obj/Debug/net8.0/Shapes3DProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parwoul/Desktop/Shapes3DProject/obj/Debug/net8.0/Shapes3DProject.AssemblyInfoInputs.cache
+/Users/parwoul/Desktop/Shapes3DProject/obj/Debug/net8.0/Shapes3DProject.AssemblyInfo.cs
+/Users/parwoul/Desktop/Shapes3DProject/obj/Debug/net8.0/Shapes3DProject.csproj.CoreCompileInputs.cache
+/Users/parwoul/Desktop/Shapes3DProject/bin/Debug/net8.0/Shapes3DProject
+/Users/parwoul/Desktop/Shapes3DProject/bin/Debug/net8.0/Shapes3DProject.deps.json
+/Users/parwoul/Desktop/Shapes3DProject/bin/Debug/net8.0/Shapes3DProject.runtimeconfig.json
+/Users/parwoul/Desktop/Shapes3DProject/bin/Debug/net8.0/Shapes3DProject.dll
+/Users/parwoul/Desktop/Shapes3DProject/bin/Debug/net8.0/Shapes3DProject.pdb
+/Users/parwoul/Desktop/Shapes3DProject/obj/Debug/net8.0/Shapes3DProject.dll
+/Users/parwoul/Desktop/Shapes3DProject/obj/Debug/net8.0/refint/Shapes3DProject.dll
+/Users/parwoul/Desktop/Shapes3DProject/obj/Debug/net8.0/Shapes3DProject.pdb
+/Users/parwoul/Desktop/Shapes3DProject/obj/Debug/net8.0/Shapes3DProject.genruntimeconfig.cache
+/Users/parwoul/Desktop/Shapes3DProject/obj/Debug/net8.0/ref/Shapes3DProject.dll
